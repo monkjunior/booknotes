@@ -9,7 +9,7 @@ The skills required to write a good cloud-native app.
 
 Compare to in-process primitives(local primitives), K8S distributed primites have commonalities, but they are not directly comparable and replaceable.
 
-![Table 1-1](image/table1-1.jpg)
+![Table 1-1](images/table1-1.jpg)
 
 ### Container
 
